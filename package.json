@@ -1,5 +1,5 @@
 {
-  "name": "js-router",
+  "name": "js-router-dom",
   "version": "1.0.0",
   "description": "",
   "main": "browserRouter.js",
