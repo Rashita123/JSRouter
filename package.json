@@ -1,0 +1,16 @@
+{
+  "name": "JSRouter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "browserRouter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rashita123/JSRouter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
