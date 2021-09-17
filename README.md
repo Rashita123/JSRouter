@@ -7,9 +7,6 @@ Ever tried building a SPA using Vanilla JavaScript?
 
 `Js-router-dom` will take care of the routing side of the SPA. It's easy to use and available on npm for installation. 
 
-# How To Use?
-Download the code and 
-
 # SPA-using-JS
 I tried to implement **Routing** in a **single page application** using **Vanilla JavaScript**.
 [Live Demo](https://routing-using-js.netlify.app/)
